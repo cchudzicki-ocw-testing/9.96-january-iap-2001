@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides lab materials for the course and step-by-step instructions
+  for the construction and use of the tetrode array and microdrive assembly that will
+  be used for recording hippocampal activity.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
